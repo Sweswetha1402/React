@@ -1,0 +1,29 @@
+
+.grid_container{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Creates 4 equal columns in a row */
+    gap: 5px; /* Adjust the gap as needed */
+    width: 100%;
+}
+
+.grid_item{
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
+
+.btnGen:hover{
+     cursor: pointer;
+     color: rgb(0, 149, 0);
+}
+
+.btnGen{
+    margin-top: 30px;
+    all: unset;
+    font-size: x-large;
+    color: white;
+    width: 80%; 
+    position: absolute;
+    text-align: center;
+}

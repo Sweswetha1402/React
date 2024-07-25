@@ -1,0 +1,11 @@
+.root{
+    box-shadow: 0px 4px 4px 4px rgba(204, 6, 254, 0.25);
+    border-radius: 42px;
+    width: 500px;
+}
+.main{
+    border-radius: 42px 42px 0px 0px;
+    padding: 40px;
+    background-color: rgb(240, 126, 126);
+    position: relative;
+}

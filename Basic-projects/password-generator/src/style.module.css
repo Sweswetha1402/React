@@ -1,0 +1,18 @@
+.root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.button{
+    display: grid;
+    align-items: center;
+    justify-content: space-between;
+    color: 'Black';
+    height: 50;
+    width: 200;
+    background: 'white';
+    font-size: 20px;
+    font-family: cursive;
+}

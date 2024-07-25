@@ -1,0 +1,13 @@
+.root{
+    padding: 40px;
+    display: flex;
+    font-size: xx-large;
+    align-items: center;
+    position: relative;
+}
+
+.icon{
+    width: 15px;
+    position: absolute;
+    right: 50px;
+}

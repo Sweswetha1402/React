@@ -1,9 +1,0 @@
-.container{
-    height: 250px;
-    width: 250px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
-    border: 2px solid rgb(2, 59, 13);
-}
